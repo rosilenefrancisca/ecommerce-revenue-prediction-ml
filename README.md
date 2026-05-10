@@ -47,7 +47,7 @@ Key characteristics:
 * Analysed distributions and relationships between features
 * Observed class imbalance in the dataset
 
-## 🤖 Model
+## Model
 
 * Built a classification model to predict purchase intention
 * Evaluated model performance using standard metrics
