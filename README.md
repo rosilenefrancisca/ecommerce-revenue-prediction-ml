@@ -4,7 +4,7 @@
 
 How can we predict customer purchase behaviour to optimise revenue?
 
-🧠 Solution
+## Solution
 
 Built machine learning models using PySpark and Python to classify revenue-generating sessions and identify key drivers of purchasing behaviour.
 
@@ -13,12 +13,12 @@ Random Forest achieved the highest accuracy
 Identified key features impacting revenue
 Class imbalance significantly affected model performance
 
-## 🔍 Project Overview
+## Project Overview
 
 This project analyses user behaviour on an e-commerce website to predict whether a visitor will make a purchase (Revenue = True/False).
 It combines exploratory data analysis (EDA) and machine learning to identify patterns and key factors influencing purchasing decisions.
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains session-level data for 12,330 users over a one-year period.
 
@@ -29,7 +29,7 @@ Key characteristics:
 * Target variable: Revenue (purchase or not)
 * Includes metrics such as page visits, duration, bounce rate, exit rate, and traffic source
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Python
 * Pandas
@@ -61,7 +61,7 @@ Key characteristics:
 
 👉 Download Full Report
 
-## 🚀 Key Takeaways
+## Key Takeaways
 
 * User behaviour metrics strongly influence purchase intent
 * Engagement and time spent are key indicators of conversion
